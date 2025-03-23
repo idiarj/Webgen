@@ -1,6 +1,5 @@
 # Herramienta a utilizar
-Oclif
-Se utiliza oclif para generar los comandos con los cuales se generara y editara el web component
+Se utiliza oclif para crear los comandos con los cuales se generara y editara el web component
 
 # Comandos
 - Webgen generate NombreWebComponent.js Ruta/TemplateHTML* Ruta/StylesheetCSS*
